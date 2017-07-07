@@ -1,0 +1,5 @@
+||amung.us^$domain=animebam.net
+||burstcpm.com^$domain=animebam.net
+||mgid.com^$domain=animebam.net
+||narutospot.net^$domain=animebam.net
+||statcounter.com^$domain=animebam.net
