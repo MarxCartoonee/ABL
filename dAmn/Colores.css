@@ -1,0 +1,78 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("chat.deviantart.com") {
+.u-anguspie .from{color:#990099 !important;}
+.u-anguspie .text{color:#FF6600 !important;}
+
+.u-aibiki .from{color:#00FF00 !important;}
+.u-aibiki .text{color:#FF0099 !important;}
+
+.u-babylon6 .from{color:#004952 !important;}
+.u-babylon6 .text{color:#098585 !important;}
+
+.u-morgue-awall .from{color:#336666 !important;}
+.u-morgue-awall .text{color:#FF9922 !important;}
+
+.u-carmalain7 .from{color:#05E9FF !important;}
+.u-carmalain7 .text{color:#00009C !important;}
+
+.u-jari-maenpaa .from{color:#000033 !important;}
+.u-jari-maenpaa .text{color:#000080 !important;}
+
+.u-alloveryourancestors .from{color:#999900 !important;}
+.u-alloveryourancestors .text{color:#000033 !important;}
+
+.u-earthgal .from{color:#3366CC !important;}
+.u-earthgal .text{color:#33CC99 !important;}
+
+.u-its-an-inferno .from{color:#FF0000;}
+.u-its-an-inferno .text{color:#FF8000;}
+
+.u-saburu91 .from{color:#EE0000 !important;}
+.u-saburu91 .text{color:#ff0000 !important;}
+
+.u-zygomanty .from{color:#ff0000 !important;}
+.u-zygomanty .text{color:#662222 !important;}
+
+.u-lassham .from{color:#000033 !important;}
+.u-lassham .text{color:#3399ff !important;}
+
+.u-macabremachine .from{color:#009900 !important;}
+.u-macabremachine .text{color:#003300 !important;}
+
+.u-yukimizuno .from{color:#1d7c26 !important;}
+.u-yukimizuno .text{color:#4444e6 !important;}
+
+.u-midnitella .from{color:#33ccff !important;}
+.u-midnitella .text{color:#9900ff !important;}
+
+.u-theeeleater .from{color:#ff0080 !important;}
+.u-theeeleater .text{color:#088a85 !important;}
+
+.u-conundrumkaiser .from{color:#000000 !important;}
+.u-conundrumkaiser .text{color:#8e40af !important;}
+
+.u-wyvernletdie .from{color:#cc0000 !important;}
+.u-wyvernletdie .text{color:#660066 !important;}
+
+.u-abstract-mindser .from{color:#F69257 !important;}
+.u-abstract-mindser .text{color:#384282 !important;}
+
+.u-syntheticmemory .from{color:#123456 !important;}
+.u-syntheticmemory .text{color:#654321 !important;}
+
+.u-kodikat .from{color:#800080 !important;}
+.u-kodikat .text{color:#800080 !important;}
+
+.u-toonlink1 .from{color:#4dbd33 !important;}
+.u-toonlink1 .text{color:#912cee !important;}
+
+.u-vocable .from{color:#2C75FF !important;}
+.u-vocable .text{color:#FF8C00 !important;}
+
+.u-totumdararum .from{color:#660099 !important;}
+.u-totumdararum .text{color:#cc3366 !important;}
+
+.u-kid-umby .from{color:#222222 !important;}
+.u-kid-umby .text{color:#cc1100 !important;}
+}
