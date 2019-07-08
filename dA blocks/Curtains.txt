@@ -1,0 +1,2 @@
+<div class="popup2-moremenu"><div class="floaty-boat"><img align="left" src="http://www.deviantart.com/download/3705774646136910/curtainl_by_marx_cartoonee-d5zjvau.png" /></div></div>
+<div class="popup2-moremenu"><div class="floaty-boat"><img align="right" src="http://www.deviantart.com/download/2164528862194624/curtainr_by_marx_cartoonee-d5zjv2m.png" /></div></div>
